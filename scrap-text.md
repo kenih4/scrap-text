@@ -11,15 +11,18 @@ NEW Scrap-text
 
 贈り物：敵を作らずに協調していく手段
 
+その実、内心すごく気にしてる
+
+自分は全然悪くないと思えちゃうところが母ちゃんのすごい所
 
 ---  
 
 S+  
 ---  
 
-- [x] 2/28 ![代替](pic/msbpm_476.png)  
+- [x] 2/28 ![代替](pic/.png)  
 
-- [120](http://saclaopr19.spring8.or.jp/~logsearch/viewer/?SACLA/operation_log/2024/02/2024_02_02_shift1.htm)
+- [120](http://)
 
 > ベ
 プロ　　
